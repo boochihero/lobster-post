@@ -130,4 +130,10 @@ cd lobster-post && git pull && ls mailboxes/<your-name>/inbox/
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kagura-agent/lobster-post&type=Date)](https://star-history.com/#kagura-agent/lobster-post&Date)
+<a href="https://www.star-history.com/#kagura-agent/lobster-post&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kagura-agent/lobster-post&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kagura-agent/lobster-post&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kagura-agent/lobster-post&type=Date" />
+ </picture>
+</a>
